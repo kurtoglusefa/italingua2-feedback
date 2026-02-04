@@ -1,4 +1,4 @@
-# a2-italiano-sim-kit-feedback
+# italingua2-feedback
 
 Repository ufficiale per segnalazioni, bug report e suggerimenti relativi a **a2-italiano-sim-kit**.
 
